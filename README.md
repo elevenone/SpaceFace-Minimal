@@ -1,2 +1,7 @@
 # SpaceFace
-## php / composer project skeleton
+php project skeleton
+
+```bash
+composer create-project elevenone/spaceface
+cd spaceface
+```
